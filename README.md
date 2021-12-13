@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション名 
+ kcall
+# アプリケーション概要
+ 
+# URL
 
-Things you may want to cover:
 
-* Ruby version
+# 機能
 
-* System dependencies
 
-* Configuration
+##　使い方
+ 1. 
 
-* Database creation
+# 環境
 
-* Database initialization
+#　注意事項
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##　実装予定の機能
+## ローカル環境へのインストール方法
+## ライセンス
